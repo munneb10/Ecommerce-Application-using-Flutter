@@ -1,16 +1,11 @@
-# flutter_tst
+#Ecommerce Application Front-End build using Flutter and dart
 
-A new Flutter project.
+##Technologies Used
 
-## Getting Started
+### Flutter
+### Dart
+### BLOC state management library
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Note ( If you want to use this application frontend then also look at the backend of this application [a link](https://github.com/munneb10/MVC-based-Ecommerce-BackEnd))
+which is build using Node / Express / SQL
