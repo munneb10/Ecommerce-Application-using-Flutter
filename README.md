@@ -1,6 +1,6 @@
-#Ecommerce Application Front-End build using Flutter and dart
+# Ecommerce Application Front-End build using Flutter and dart
 
-##Technologies Used
+## Technologies Used
 
 ### Flutter
 ### Dart
